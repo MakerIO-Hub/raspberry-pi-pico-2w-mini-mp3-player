@@ -2,7 +2,7 @@
 
 This project is an advanced embedded audio terminal built on the Raspberry Pi Pico 2 W microcontroller. It features high-quality MP3 playback from an SD card, automatic NTP time synchronization over Wi-Fi, real-time weather fetching via the OpenWeatherMap API, and a smart screensaver mode.
 
-📺 Watch the Full Project Video on YouTube: https://youtu.be/KwW4RNYulAs
+📺 Watch the Full Project Video on YouTube: https://youtu.be/KwW4RNYulAw
 
 ## **🛠️ Bill of Materials (BOM)**
 
