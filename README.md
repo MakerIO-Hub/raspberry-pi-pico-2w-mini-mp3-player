@@ -10,7 +10,6 @@ This project is an advanced embedded audio terminal built on the Raspberry Pi Pi
 - **Display & SD:** ILI9341 SPI TFT Display (320x240 pixels) + Built-in MicroSD Card Slot.
 - **Audio Amplifier:** MAX98357A I2S Amplifier Module.
 - **Speaker:** 3W 4-ohm / 8-ohm mini speaker.
-- **Input Devices:** 3x Momentary Push Buttons and QRE1113 Optical Sensor.
 
 ## **📌 Hardware and Pin Connections**
 
@@ -87,7 +86,7 @@ This project is an advanced embedded audio terminal built on the Raspberry Pi Pi
 
 ### **🔌 Power and Common Rail Connections**
 
-- **3.3V Rails:** Pin 36 \$\\rightarrow\$ ILI9341 VCC, ILI9341 LED, QRE1113 VCC
+- **3.3V Rails:** Pin 36 \$\\rightarrow\$ ILI9341 VCC, ILI9341 LED, 
 - **GND Rails:** Pin 38 \$\\rightarrow\$ ILI9341 GND, MAX98357A GND; Pin 8 \$\\rightarrow\$ Buttons GND; Pin 28 \$\\rightarrow\$ QRE1113 GND
 - **5V Power:** Pin 40 (VBUS 5V) \$\\rightarrow\$ MAX98357A VIN
 
