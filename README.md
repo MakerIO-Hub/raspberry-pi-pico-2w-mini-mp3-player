@@ -101,6 +101,14 @@ To be installed via the Arduino IDE Library Manager:
 - **Adafruit ILI9341** — TFT display driver.
 - **Adafruit GFX Library** — Core graphics library.
 
+### **Raspberry Pi Pico Arduino Core**
+
+Before selecting the board, add the following URL to:
+
+Arduino IDE → File → Preferences → Additional Boards Manager URLs
+
+https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
+
 _(Note: WiFi, HTTPClient, and SD libraries are included natively with Earle F. Philhower's Raspberry Pi Pico Arduino core.)_
 
 ## **⚙️ Software Architecture and Key Features**
