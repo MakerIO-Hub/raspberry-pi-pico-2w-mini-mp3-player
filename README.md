@@ -85,19 +85,6 @@ This project is an advanced embedded audio terminal built on the Raspberry Pi Pi
 
 ###
 
-### **👁️ QRE1113 Optical Sensor**
-
-| **Module Pin** | **Pico 2 W**  | **Physical Pin** |
-| -------------- | ------------- | ---------------- |
-| **VCC**        | 3.3V          | Pin 36           |
-| ---            | ---           | ---              |
-| **GND**        | GND           | Pin 28           |
-| ---            | ---           | ---              |
-| **OUT**        | GPIO26 / ADC0 | Pin 31           |
-| ---            | ---           | ---              |
-
-###
-
 ### **🔌 Power and Common Rail Connections**
 
 - **3.3V Rails:** Pin 36 \$\\rightarrow\$ ILI9341 VCC, ILI9341 LED, QRE1113 VCC
